@@ -1,0 +1,21 @@
+name:
+  Lorena Cocora
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+      
+code:
+  - comment: 
+    url: https://github.com/PDillis/stylegan3-fun
+    licence:
+
+assets:
+  - comment: Arzoiu Beatrice, collages for dataset
+    url: https://www.instagram.com/arzoiubeatrice/
+    licence:
+
+assets:
+  - comment: Stefania Ruse, collages for dataset
+    url: https://www.instagram.com/stefania.ruse/
+    licence:
